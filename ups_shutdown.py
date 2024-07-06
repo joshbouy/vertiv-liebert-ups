@@ -9,7 +9,8 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
 
 # Making a get request 
-response = requests.get('https://192.168.1.80:8210/api/PowerAssist', verify=False) 
+# Change IP address to your IP address
+response = requests.get('https://ipaddress:8210/api/PowerAssist', verify=False) 
 
 #print(response.json()[0])
 
