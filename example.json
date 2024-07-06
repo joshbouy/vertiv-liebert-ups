@@ -1,0 +1,47 @@
+[
+    {
+        "computerName": "mini-coco",
+        "connectionTypeId": 1,
+        "lastConnectedTimeStamp": "2024-07-02T17:45:42.9314756",
+        "manufacturer": "Vertiv Co",
+        "modelNumber": "Liebert PST5",
+        "name": "mini-coco",
+        "serialNumber": "2328310795A4A4C",
+        "status": {
+            "batteryVoltage": 13.700000000000001,
+            "belowRemainingCapacityLimit": false,
+            "delayBeforeRebootInSeconds": 0,
+            "fullyCharged": true,
+            "fullyDischarged": false,
+            "inputVoltages": {
+                "voltages": [
+                    120.7
+                ]
+            },
+            "isAcPresent": true,
+            "isCharging": true,
+            "isDischarging": false,
+            "isInternalFailure": false,
+            "isOverload": false,
+            "isShutDownImminent": false,
+            "isUpsOn": true,
+            "needsReplacement": false,
+            "outputSource": 0,
+            "outputVoltages": {
+                "voltages": [
+                    120.7
+                ]
+            },
+            "percentLoad": 14,
+            "remainingCapacityInPercent": 100,
+            "runTimeToEmptyInSeconds": 2938,
+            "voltageIsOutOfRange": false
+        },
+        "upsDiscoveredOrderIdx": 1,
+        "upsNotCommunicating": false,
+        "upsUniqueIdentifier": "2328310795A4A4C",
+        "vendorId": 4271,
+        "version": "2",
+        "wirelessId": null
+    }
+]
